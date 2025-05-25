@@ -15,6 +15,8 @@ Bu proje, işletim sistemleri dersinde öğrenilen teorik kavramların gerçek z
 
 
 📁 Proje Yapısı
+
+
 <img width="308" alt="image" src="https://github.com/user-attachments/assets/3c256d0b-f1e5-40eb-8bd8-7f5e55f1f808" />
 
 
