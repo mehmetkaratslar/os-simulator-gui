@@ -49,7 +49,7 @@ pip install -r requirements.txt
 ▶️ Uygulamayı Başlatma
 
 
-python src/main.py
+python main.py
 
 
 Uygulama açıldığında üç ana sekme görünecektir:
