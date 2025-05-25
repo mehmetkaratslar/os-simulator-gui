@@ -15,27 +15,8 @@ Bu proje, işletim sistemleri dersinde öğrenilen teorik kavramların gerçek z
 
 
 📁 Proje Yapısı
+<img width="308" alt="image" src="https://github.com/user-attachments/assets/3c256d0b-f1e5-40eb-8bd8-7f5e55f1f808" />
 
-
-project/
-├── src/
-│   ├── models/
-│   │   ├── scheduler.py        # CPU zamanlama algoritmaları (FCFS, SJF, SRTF, RR, Priority)
-│   │   ├── deadlock.py         # Deadlock algılama (Resource Graph) ve önleme (Banker's)
-│   │   └── process_monitor.py  # Gerçek zamanlı proses izleme
-│   ├── views/
-│   │   ├── main_window.py      # Ana pencere GUI
-│   │   ├── scheduler_tab.py    # CPU zamanlayıcı arayüzü
-│   │   ├── deadlock_tab.py     # Deadlock yönetim arayüzü
-│   │   └── monitor_tab.py      # Proses yönetimi arayüzü
-│   ├── controllers/
-│   │   ├── app_controller.py   # Uygulama akışı kontrolü
-│   │   └── event_handlers.py   # Kullanıcı etkileşimi
-│   └── utils/
-│       ├── algorithms.py       # Performans metrikleri (waiting, turnaround, vb.)
-│       └── visualization.py    # Matplotlib ile grafik çizimi
-├── requirements.txt
-└── README.md
 
 
  ⚙️ Kurulum ve Başlatma
