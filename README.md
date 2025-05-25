@@ -3,8 +3,7 @@
 
 **CPU Zamanlayıcı | Deadlock Yönetimi | Proses İzleme ve Kontrol Sistemi**  
 Geliştirici: Mehmet Karataş  
-Lisans: MIT  
-Versiyon: v1.0
+
 
 
 
